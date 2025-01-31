@@ -8,3 +8,4 @@ Antes de rodar o script, é necessário instalar a biblioteca `imap-tools`. Para
 
 ```bash
 pip install imap-tools
+```
